@@ -2,3 +2,11 @@
 
 Devops es esquema de desarrollo continuo, donde permite realizar implementaciones en producción de manera automática, 
 esto es muy importante para las mejorar tiempos de desarrollo y puesta en producción. 
+
+
+2.) Ideas para generar más empatía, confianza y seguridad psicológica en el equipo.
+
+Para generar confianza puede funcionar : contribuir con nuestros conocimientos en la solución de problemas
+Estar dispuesto a ir más allá de lo que necesito hacer
+En empatia puede ser proporcionar feed-back positivo del trabajo de los compañeros o en pocas palabras retroalimentacion positiva
+Propiciar espacios para la resolución de conflictos y la cooperació
