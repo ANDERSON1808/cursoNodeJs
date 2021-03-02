@@ -1,0 +1,4 @@
+¿Que es DEVOPS?
+
+Devops es esquema de desarrollo continuo, donde permite realizar implementaciones en producción de manera automática, 
+esto es muy importante para las mejorar tiempos de desarrollo y puesta en producción. 
